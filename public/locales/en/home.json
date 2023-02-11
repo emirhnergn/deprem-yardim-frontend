@@ -62,7 +62,6 @@
         "showData": "Show recorded data"
     },
     "viewControls" : {
-        "reset": "Reset",
-        "layers": "Layers"
+        "reset": "Reset"
     }
 }
